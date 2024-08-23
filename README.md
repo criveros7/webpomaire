@@ -3,6 +3,6 @@
 <div class="zeroclipboard-container">
   copias
   <pre class="notranslate">
-    true or false
+    <code>false or true </code>
   </pre>
 </div>
