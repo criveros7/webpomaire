@@ -2,7 +2,7 @@
 
 <div class="zeroclipboard-container">
   copias
-  <pre>
+  <pre class="notranslate">
     true or false
   </pre>
 </div>
